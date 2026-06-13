@@ -52,10 +52,10 @@ To stop the program:
  
 
 🧪 Working Explanation
- YOLO model detects objects from the webcam feed
- Detected objects are tracked frame-by-frame
- Each object is assigned a unique ID
- Bounding boxes and IDs are displayed in real time
+- YOLO model detects objects from the webcam feed
+- Detected objects are tracked frame-by-frame
+- Each object is assigned a unique ID
+- Bounding boxes and IDs are displayed in real time
 
 
  ✅ Task Requirements Fulfilled
