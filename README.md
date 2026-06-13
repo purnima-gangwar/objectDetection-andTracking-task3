@@ -7,12 +7,12 @@ This project was developed as part of Task 4 of my internship, following all the
 
  🚀 Features
 
- Real-time object detection using YOLO
- Webcam-based live detection
- Object tracking with unique ID assignment
- Bounding boxes displayed on detected objects
- Green-colored bounding box for clear visualization
- Smooth real-time performance
+- Real-time object detection using YOLO
+- Webcam-based live detection
+- Object tracking with unique ID assignment
+- Bounding boxes displayed on detected objects
+- Green-colored bounding box for clear visualization
+- Smooth real-time performance
 
  🛠️ Technologies Used
  Python
