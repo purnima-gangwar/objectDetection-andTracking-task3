@@ -3,7 +3,7 @@
 This project implements a real-time object detection and tracking system using **YOLO (You Only Look Once) and OpenCV.
 The system detects objects through a webcam and assigns a unique ID to each detected object while tracking it across frames
 
-# 🚀 Features
+## 🚀 Features:
 
 - Real-time object detection using YOLO
 - Webcam-based live detection
@@ -12,7 +12,7 @@ The system detects objects through a webcam and assigns a unique ID to each dete
 - Green-colored bounding box for clear visualization
 - Smooth real-time performance
 
- 🛠️ Technologies Used
+## 🛠️ Technologies Used
  Python
  OpenCV
  YOLO (Ultralytics)
