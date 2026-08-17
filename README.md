@@ -20,9 +20,9 @@ The system detects objects through a webcam and assigns a unique ID to each dete
  Scikit-image
  Matplotlib
 
- ##📂 Project Structure
+ ##📂 Project Structure:
  
-Task4_ObjectDetection/
+- Task4_ObjectDetection/
 │
 ├── main.py              # Main execution file
 ├── requirements.txt     # Required libraries
