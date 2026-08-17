@@ -13,10 +13,10 @@ The system detects objects through a webcam and assigns a unique ID to each dete
 - Smooth real-time performance
 
 ## 🛠️ Technologies Used:
- Python
- OpenCV
- YOLO (Ultralytics)
- FilterPy
+- Python
+- OpenCV
+- YOLO (Ultralytics)
+- FilterPy
  Scikit-image
  Matplotlib
 
