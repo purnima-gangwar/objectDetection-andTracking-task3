@@ -24,10 +24,10 @@ The system detects objects through a webcam and assigns a unique ID to each dete
  
 - Task4_ObjectDetection/
 │
-├── main.py              # Main execution file
-├── requirements.txt     # Required libraries
-├── yolov8n.pt           # YOLO model file
-└── venv/                # Virtual environment
+-├── main.py              # Main execution file
+-├── requirements.txt     # Required libraries
+-├── yolov8n.pt           # YOLO model file
+-└── venv/                # Virtual environment
 
  ⚙️ Installation & Setup
  1️⃣ Create & Activate Virtual Environment
