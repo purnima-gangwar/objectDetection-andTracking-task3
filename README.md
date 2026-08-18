@@ -17,8 +17,8 @@ The system detects objects through a webcam and assigns a unique ID to each dete
 - OpenCV
 - YOLO (Ultralytics)
 - FilterPy
- Scikit-image
- Matplotlib
+-Scikit-image
+- Matplotlib
 
  ##📂 Project Structure:
  
