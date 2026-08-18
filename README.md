@@ -20,23 +20,11 @@ The system detects objects through a webcam and assigns a unique ID to each dete
 -Scikit-image
 - Matplotlib
 
- ##📂 Project Structure:
- 
-- Task4_ObjectDetection/
-│
--├── main.py              # Main execution file
--├── requirements.txt     # Required libraries
--├── yolov8n.pt           # YOLO model file
--└── venv/                # Virtual environment
-
- ⚙️ Installation & Setup
+ ##⚙️ Installation & Setup:
  1️⃣ Create & Activate Virtual Environment
-
- 2️⃣ Install Required Libraries
-pip install -r requirements.txt
-(This is a one-time setup)
-
- ▶️ How to Run the Project
+ 2️⃣ Install Required Libraries pip install -r requirements.txt (This is a one-time setup)
+ 
+## ▶️ How to Run the Project
 Run the following command in the terminal:
  python main.py
  Webcam will open automatically
@@ -56,7 +44,7 @@ To stop the program:
 - Bounding boxes and IDs are displayed in real time
 
 
- ✅ Task Requirements Fulfilled
+ ##✅ Task Requirements Fulfilled
 ✔ Real-time detection
 ✔ Object tracking
 ✔ Unique ID assignment
