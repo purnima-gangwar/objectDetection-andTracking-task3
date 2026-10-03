@@ -12,7 +12,7 @@ The system detects objects through a webcam and assigns a unique ID to each dete
 - Green-colored bounding box for clear visualization
 - Smooth real-time performance
 
-## 🛠️ Technologies Used:
+## 🛠️ Technologies Used
 - Python
 - OpenCV
 - YOLO (Ultralytics)
