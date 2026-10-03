@@ -20,7 +20,7 @@ The system detects objects through a webcam and assigns a unique ID to each dete
 -Scikit-image
 - Matplotlib
 
- ## ⚙️Installation & Setup:
+ ## ⚙️Installation & Setup
  - Create & Activate Virtual Environment
 - Install Required Libraries pip install -r requirements.txt (This is a one-time setup)
  
