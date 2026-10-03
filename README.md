@@ -44,12 +44,12 @@ To stop the program:
 - Bounding boxes and IDs are displayed in real time
 
 
- ##✅ Task Requirements Fulfilled:
-✔ Real-time detection
-✔ Object tracking
-✔ Unique ID assignment
-✔ Webcam integration
-✔ Proper visualization
+ ##✅ Task Requirements Fulfilled
+- Real-time detection
+- Object tracking
+- Unique ID assignment
+- Webcam integration
+- Proper visualization
 
 All requirements mentioned in Task 4 have been successfully implemented.
 
