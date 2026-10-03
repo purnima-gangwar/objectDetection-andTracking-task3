@@ -44,7 +44,7 @@ To stop the program:
 - Bounding boxes and IDs are displayed in real time
 
 
- ##✅ Task Requirements Fulfilled
+ ##✅ Task Requirements Fulfilled:
 ✔ Real-time detection
 ✔ Object tracking
 ✔ Unique ID assignment
