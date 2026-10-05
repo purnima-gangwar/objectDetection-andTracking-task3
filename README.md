@@ -31,7 +31,7 @@ Run the following command in the terminal:
  Detected objects will be highlighted with green bounding boxes
  Each object will have a unique tracking ID
 
-To stop the program:
+## To stop the program:
  Press ESC on the camera window
   or
  Press Ctrl + C in terminal
