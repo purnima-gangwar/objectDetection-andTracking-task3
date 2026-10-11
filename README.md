@@ -56,8 +56,8 @@ All requirements mentioned in Task 4 have been successfully implemented.
 
  ## 📸 Output
 - Live webcam feed
- - Objects detected with green bounding boxes
- - Unique ID displayed above each object
+- Objects detected with green bounding boxes
+- Unique ID displayed above each object
 
 
 ## 👩‍💻 Author: Purnima Gangwar.
