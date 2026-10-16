@@ -4,7 +4,6 @@ This project implements a real-time object detection and tracking system using *
 The system detects objects through a webcam and assigns a unique ID to each detected object while tracking it across frames
 
 ## 🚀 Features
-
 - Real-time object detection using YOLO
 - Webcam-based live detection
 - Object tracking with unique ID assignment
