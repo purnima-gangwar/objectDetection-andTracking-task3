@@ -59,6 +59,6 @@ All requirements mentioned in Task 4 have been successfully implemented.
 - Unique ID displayed above each object
 
 
-## 👩‍💻 Author: Purnima Gangwar.
+## Author: Purnima Gangwar.
 ## Thank You!
 
