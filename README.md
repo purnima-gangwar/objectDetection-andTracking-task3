@@ -23,7 +23,7 @@ The system detects objects through a webcam and assigns a unique ID to each dete
  - Create & Activate Virtual Environment
 - Install Required Libraries pip install -r requirements.txt (This is a one-time setup)
  
-## ▶️ How to Run the Project
+##  How to Run the Project
 Run the following command in the terminal:
  python main.py
  Webcam will open automatically
