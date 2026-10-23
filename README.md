@@ -36,7 +36,7 @@ Run the following command in the terminal:
  Press Ctrl + C in terminal
  
 
-## 🧪 Working Explanation
+## Working Explanation
 - YOLO model detects objects from the webcam feed
 - Detected objects are tracked frame-by-frame
 - Each object is assigned a unique ID
